@@ -1,0 +1,12 @@
+.navbar-brand{
+    padding: 14px;
+}
+
+img{
+    width: 768px;
+    height: 427px;
+}
+.conteiner row{
+    padding: 30px;
+    justify-items: center;
+}
